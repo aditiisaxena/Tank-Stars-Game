@@ -5,6 +5,7 @@ A remake of the classic Tank Star game using the libgdx game development framewo
     <source src="VID-20221221-WA0016.mp4" type="video/mp4">
   </video>
 </figure>
+
 ## Requirements
 Java 8 or higher<br>
 libgdx (included in the project)
